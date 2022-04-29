@@ -5,7 +5,7 @@ Hi there! Thank you for reading the “Ultimate Guides for Arduino & Node MCU Se
                                                         
 “I’m tec Santosh Kumar, I have a graduation degree in Electrical and Electronic Engineering. 
 I have more than two years of experience teaching electronics and programming with the
-Electro-Tech Global. I’m also founder of santosh.code.blog and author of electrotech.com and 20 Easy Arduino Projects book. My projects and tutorials are related with Arduino, Home Automation, ESP8266, and ESP32.”
+Electro-Tech Solution. I’m also founder of Electro-Tech Solution and author of electrotech.com and 20 Easy Arduino Projects book. My projects and tutorials are related with Arduino, Home Automation, ESP8266, and ESP32.”
 
 	
 
