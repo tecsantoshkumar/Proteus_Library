@@ -10,7 +10,7 @@ Electro-Tech Solution. I’m also founder of Electro-Tech Solution and author of
 	
 
 
-                   Table of Contents
+ Table of Contents
 
 1.	HC-SR04 Ultrasonic Sensor
 2.	IR Infrared Obstacle Avoidance Sensor
@@ -35,13 +35,8 @@ Electro-Tech Solution. I’m also founder of Electro-Tech Solution and author of
 21.	RF 433MHZ Transmitter/Receiver
 22.	Bluetooth Module
 
-
-
-
-
-
                                                     
-                        HC-SR04 Ultrasonic Sensor
+HC-SR04 Ultrasonic Sensor
 
 Ultrasonic sensor can detect movement of targets and measure the distance to them in many automated factories and process plants.
  
@@ -55,24 +50,10 @@ Ultrasonic ranging module HC - SR04 provides 2cm - 400cm non-contact measurement
 Click the links below to compare the sensor at different stores and find the best price:
  Click here to see DHT11 on Maker Advisor
 
-             Name	        Figure	Bying Price
+ Name	 |   Figure	| Bying Price
 
-
-
-        Arduino Uno	      
-          
-	
-    
-    
-    Ultrasonic Sensor	           
-               
-	
-
-
-       Breadboard
+Arduino Uno | Ultrasonic Sensor	 | Breadboard
 	          	
-
-
 10KΩ Resistor (or 4.7KΩ)	            	
 
     Jumper Wires	          	
