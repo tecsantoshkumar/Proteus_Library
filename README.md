@@ -1,62 +1,66 @@
- About the Authors
- 	
-
-Hi there! Thank you for reading the “Ultimate Guides for Arduino & Node MCU Sensors”.
-                                                        
-“I’m tec Santosh Kumar, I have a graduation degree in Electrical and Electronic Engineering. 
-I have more than two years of experience teaching electronics and programming with the
-Electro-Tech Solution. I’m also founder of Electro-Tech Solution and author of electrotech.com and 20 Easy Arduino Projects book. My projects and tutorials are related with Arduino, Home Automation, ESP8266, and ESP32.”
-
-	
-
 
  Table of Contents
 
 1.	HC-SR04 Ultrasonic Sensor
+
 2.	IR Infrared Obstacle Avoidance Sensor
+
 3.	Solid Hygrometer Detection Module
+
 4.	Soil Moisture Sensor
+
 5.	Microphone Sensor
+
 6.	Digital Barometric Pressure Sensor
+
 7.	Photoresistor Sensor
+
 8.	Digital Thermal Sensor-Temperature Sensor
+
 9.	Rotary Encoder Module
+
 10.	MQ-2 Gas Sensor
+
 11.	SW-420 Motion Sensor
+
 12.	Humidity and Rain Detection Sensor
+
 13.	Passive Buzzer Module
+
 14.	Speed Sensor Module
+
 15.	IR Infrared Flame Detection Sensor
+
 16.	5V 2-Channel Relay Module
+
 17.	Breadboard Power Supply Module 3.3v
+
 18.	HC-SR501 Pyroelectric Infrared Sensor
+
 19.	Accelerometer Module
+
 20.	DHT11 Temperature and Humidity Sensor
+
 21.	RF 433MHZ Transmitter/Receiver
+
 22.	Bluetooth Module
 
                                                     
-HC-SR04 Ultrasonic Sensor
+#HC-SR04 Ultrasonic Sensor
 
 Ultrasonic sensor can detect movement of targets and measure the distance to them in many automated factories and process plants.
  
 Ultrasonic ranging module HC - SR04 provides 2cm - 400cm non-contact measurement function, the ranging accuracy can reach to 3mm. The modules includes ultrasonic transmitters, receiver and control circuit. The basic principle of work: (1) Using IO trigger for at least 10us high level signal, (2) The Module automatically sends eight 40 kHz and detect whether there is a pulse signal back. (3) IF the signal back, through high level , time of high output IO duration is the time from sending ultrasonic to returning. Test distance = (high level time×velocity of sound (340M/S) / 2,
-                                              Wire connecting direct as following: 
+
+##Wire connecting direct as following: 
+
 •	5V Supply  
 •	Trigger Pulse Input  
 •	Echo Pulse Output  
 •	0V Ground
-	Where to buy?
-Click the links below to compare the sensor at different stores and find the best price:
- Click here to see DHT11 on Maker Advisor
+	            	
 
- Name	 |   Figure	| Bying Price
-
-Arduino Uno | Ultrasonic Sensor	 | Breadboard
-	          	
-10KΩ Resistor (or 4.7KΩ)	            	
-
-    Jumper Wires	          	
+Connection pip with Arduino          	
 
 Pin	Arduino UNO
 Trigger	D9
