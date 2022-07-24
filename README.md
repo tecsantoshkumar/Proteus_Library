@@ -46,13 +46,13 @@
 22.	Bluetooth Module
 
                                                     
-#HC-SR04 Ultrasonic Sensor
+# HC-SR04 Ultrasonic Sensor
 
 Ultrasonic sensor can detect movement of targets and measure the distance to them in many automated factories and process plants.
  
 Ultrasonic ranging module HC - SR04 provides 2cm - 400cm non-contact measurement function, the ranging accuracy can reach to 3mm. The modules includes ultrasonic transmitters, receiver and control circuit. The basic principle of work: (1) Using IO trigger for at least 10us high level signal, (2) The Module automatically sends eight 40 kHz and detect whether there is a pulse signal back. (3) IF the signal back, through high level , time of high output IO duration is the time from sending ultrasonic to returning. Test distance = (high level time×velocity of sound (340M/S) / 2,
 
-##Wire connecting direct as following: 
+## Wire connecting direct as following: 
 
 •	5V Supply  
 •	Trigger Pulse Input  
